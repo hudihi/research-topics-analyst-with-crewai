@@ -1,3 +1,6 @@
 .env
 __pycache__/
 .DS_Store
+uv.lock
+report.md
+src/intelligent_report_vulnerability/__pycache__/
